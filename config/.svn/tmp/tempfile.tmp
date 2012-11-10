@@ -1,0 +1,18 @@
+#the config file of client
+poissonLambda = 2 
+clientNumber = 1 
+resourceNumber = 50
+clientTypes = 2
+circleConfigFile = config/clientCircle.ini
+serverIpAddress =  59.77.16.15
+#serverIpAddress =  59.77.16.101
+#serverIpAddress =  127.0.0.1
+#serverIpAddress =  192.168.1.40
+serverPort = 6666
+managerPort = 6665
+totalBufSize = 100
+blockSize = 10 
+bufManagementStrategy = LFRU
+infMaxLoad = 3
+subMaxLoad = 5
+prefetchNumber = 1 

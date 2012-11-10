@@ -1,0 +1,10 @@
+zeta = 4835 
+sigma = 1704
+playToPlay = 100
+playToPause = 0
+playToStop = 0
+playToForward = 450
+playToBackward = 450
+pauseToPlay = 1000
+forwardToPlay = 1000
+backwardToPlay = 1000

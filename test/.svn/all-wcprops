@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/146/trunk/test
+END
+vodRes.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/33/trunk/test/vodRes.cpp
+END
+vodRes.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/33/trunk/test/vodRes.h
+END
+zipf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/33/trunk/test/zipf.cpp
+END
+log_normal
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/37/trunk/test/log_normal
+END
+zipfTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/9/trunk/test/zipfTest.cpp
+END
+MMPackTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/6/trunk/test/MMPackTest.cpp
+END
+log_normal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/37/trunk/test/log_normal.cpp
+END
+testlognormal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/62/trunk/test/testlognormal.cpp
+END
+fileStatistics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/114/trunk/test/fileStatistics.cpp
+END
+zipf.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/33/trunk/test/zipf.h
+END
+showBuf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/146/trunk/test/showBuf.cpp
+END

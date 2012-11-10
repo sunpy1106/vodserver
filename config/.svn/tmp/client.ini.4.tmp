@@ -1,0 +1,22 @@
+#the config file of client
+poissonLambda = 500
+zipfParameter = 729 
+clientNumber = 150 
+resourceNumber = 150
+clientTypes = 2
+circleConfigFile = config/clientCircle.ini
+requestListFile=data/requestList.ini
+bufRecordFile = data/bufRecord.txt
+#serverIpAddress =  59.77.16.15
+serverIpAddress =  59.77.16.101
+#serverIpAddress =  127.0.0.1
+#serverIpAddress =  192.168.1.40
+serverPort = 6666
+managerPort = 6665
+totalBufSize = 200
+blockSize = 10 
+bufManagementStrategy = DW
+clientBandwidth = 1000 
+prefetchNumber = 1
+period = 240
+lrfuLambda = 700

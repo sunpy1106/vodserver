@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/174/trunk/config
+END
+clientCircle1.ini
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/150/trunk/config/clientCircle1.ini
+END
+clientCircle2.ini
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/135/trunk/config/clientCircle2.ini
+END
+clientCircle3.ini
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/37/trunk/config/clientCircle3.ini
+END
+clientCircle4.ini
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/37/trunk/config/clientCircle4.ini
+END
+db.ini
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/174/trunk/config/db.ini
+END
+clientCircle5.ini
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/37/trunk/config/clientCircle5.ini
+END
+server.ini
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/169/trunk/config/server.ini
+END
+client.ini
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/178/trunk/config/client.ini
+END

@@ -1,0 +1,30 @@
+#the config file for server side 
+
+resourceNumber = 1000
+
+needCreateResources =  false
+
+#the bitrate range Mbps
+maxBitRate = 20 
+minBitRate = 20
+
+#the file lenght range
+#1M
+minFileLen = 1024
+#30G
+maxFileLen = 30720
+
+#true of false
+isP2pOpen = true 
+
+#the maxLoad for server
+blockSize = 10
+managerPort = 6665
+serverPort = 6666
+bandwidth = 3000
+clientBandwidth = 1000
+clientNumber = 150
+
+dbFileName = config/db.ini
+statisticalTimeInterval = 5 
+statisticalResultFile = data/result.txt

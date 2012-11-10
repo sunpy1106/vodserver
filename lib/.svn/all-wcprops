@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/171/trunk/lib
+END
+error.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/28/trunk/lib/error.h
+END
+sock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/82/trunk/lib/sock.cpp
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/150/trunk/lib/util.h
+END
+sock.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/28/trunk/lib/sock.h
+END
+error.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/28/trunk/lib/error.cpp
+END
+util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/171/trunk/lib/util.cpp
+END
