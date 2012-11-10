@@ -1,3 +1,5 @@
+/*client source code
+ */
 #include "client.h"
 
 #define BUFSIZE 1024
